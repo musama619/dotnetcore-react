@@ -1,0 +1,17 @@
+Helpfull links:
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+Dependencies:
+
+- API 
+    -> Application
+
+- Application
+    -> Domain
+    -> Persistence
+
+- Domain
+
+- Persistence
+    -> Domain
+
